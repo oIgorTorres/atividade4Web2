@@ -10,7 +10,6 @@ Este é uma base para projetos educacionais voltado para o aprendizado de:
 - ## 🛠️ Tecnologias Utilizadas
 
 PHP 8+
-MySQL / MariaDB
 HTML5 e CSS3
 XAMPP como ambiente local
 
