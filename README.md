@@ -20,7 +20,7 @@ XAMPP como ambiente local
 
 **Nome:** *Igor Torres Dias*  
 **Instituição:** *Curso Técnico em Informática – Colégio São Lucas*  
-**Disciplina:** *Desenvolvimento Mobile Android*  
+**Disciplina:** *Programação Websites 2*  
 **Professor:** *Jeferson Leon*  
 
 ---
